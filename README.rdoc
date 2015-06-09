@@ -1,0 +1,16 @@
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to know:
+
+Ruby version: ruby 2.2.1p85
+RVM version: rvm 1.26.11
+Rails version: Rails 4.2.1 
+gcc version: Apple LLVM version 6.1.0
+git version: git version 2.3.2
+gem version: 2.4.8
+gemset: ruby-2.2.1@recipe-example
+
+
